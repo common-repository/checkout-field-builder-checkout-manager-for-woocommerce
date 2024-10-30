@@ -1,0 +1,13 @@
+.dcfem-field-wrapper .input-radio {
+    margin-right: 5px;
+}
+.dcfem-field-wrapper .input-radio + .radio { 
+    display: inline !important; 
+    margin-right: 15px !important; 
+}
+.dcfem-optional .required{
+    display:none
+}
+.has-error {
+    border: 1px solid red !important;
+  }
